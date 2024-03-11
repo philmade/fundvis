@@ -6,7 +6,7 @@ authors = ["phil harper <phil@imrge.co>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9.18"
 streamlit = "^1.32.0"
 networkx = "^3.2.1"
 matplotlib = "^3.8.3"
