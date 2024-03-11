@@ -1,0 +1,107 @@
+[
+    {
+      "doi": "10.1234/paper1",
+      "authors": [
+        {
+          "name": "Emily Johnson",
+          "institution": [
+            {
+              "name": "Harvard University"
+            },
+            {
+              "name": "Massachusetts Institute of Technology"
+            }
+          ],
+          "funders": [
+            {
+              "name": "National Science Foundation"
+            },
+            {
+              "name": "National Institutes of Health"
+            }
+          ]
+        },
+        {
+          "name": "Michael Davis",
+          "institution": [
+            {
+              "name": "Stanford University"
+            }
+          ],
+          "funders": [
+            {
+              "name": "National Science Foundation"
+            },
+            {
+              "name": "Department of Energy"
+            }
+          ]
+        }
+      ],
+      "funders": [
+        {
+          "name": "National Science Foundation"
+        },
+        {
+          "name": "National Institutes of Health"
+        },
+        {
+          "name": "Department of Energy"
+        }
+      ]
+    },
+    {
+      "doi": "10.5678/paper2",
+      "authors": [
+        {
+          "name": "Olivia Wilson",
+          "institution": [
+            {
+              "name": "University of California, Berkeley"
+            }
+          ],
+          "funders": [
+            {
+              "name": "National Institutes of Health"
+            },
+            {
+              "name": "American Cancer Society"
+            }
+          ]
+        },
+        {
+          "name": "Daniel Brown",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            },
+            {
+              "name": "Imperial College London"
+            }
+          ],
+          "funders": [
+            {
+              "name": "Wellcome Trust"
+            },
+            {
+              "name": "Medical Research Council"
+            }
+          ]
+        }
+      ],
+      "funders": [
+        {
+          "name": "National Institutes of Health"
+        },
+        {
+          "name": "American Cancer Society"
+        },
+        {
+          "name": "Wellcome Trust"
+        },
+        {
+          "name": "Medical Research Council"
+        }
+      ]
+    }
+  ]

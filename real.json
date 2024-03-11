@@ -1,0 +1,348 @@
+[
+    {
+      "doi": "10.1016/S2213-2600(23)00083-8",
+      "authors": [
+        {
+          "name": "Jonathan S Nguyen-Van-Tam",
+          "institution": [],
+          "funders": [
+            {
+              "name": "Department of Health and Social Care, England"
+            },
+            {
+              "name": "Gilead"
+            },
+            {
+              "name": "F Hoffmann-La Roche"
+            }
+          ]
+        },
+        {
+          "name": "Kerenza Hood",
+          "institution": [],
+          "funders": [
+            {
+              "name": "UK National Institute for Health and Care Research (NIHR)"
+            },
+            {
+              "name": "AstraZeneca"
+            },
+            {
+              "name": "OCTAVE-DUO trial"
+            }
+          ]
+        },
+        {
+          "name": "David M Lowe",
+          "institution": [],
+          "funders": [
+            {
+              "name": "LifeArc"
+            },
+            {
+              "name": "UK Medical Research Council"
+            },
+            {
+              "name": "Bristol Myers Squibb"
+            },
+            {
+              "name": "GlaxoSmithKline"
+            },
+            {
+              "name": "British Society for Antimicrobial Chemotherapy"
+            },
+            {
+              "name": "Blood Cancer UK"
+            },
+            {
+              "name": "Biotest UK"
+            },
+            {
+              "name": "Gilead"
+            },
+            {
+              "name": "Merck"
+            },
+            {
+              "name": "Octapharma"
+            }
+          ]
+        },
+        {
+          "name": "Duncan B Richards",
+          "institution": [],
+          "funders": [
+            {
+              "name": "OMASS Therapeutics"
+            },
+            {
+              "name": "Heal-COVID trial TMG"
+            }
+          ]
+        },
+        {
+          "name": "Benjamin R Saville",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": [
+            {
+              "name": "Berry Consultants"
+            }
+          ]
+        },
+        {
+          "name": "Joe Marion",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": [
+            {
+              "name": "Berry Consultants"
+            }
+          ]
+        },
+        {
+          "name": "Michelle A Detry",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": []
+        },
+        {
+          "name": "Christina T Saunders",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": []
+        },
+        {
+          "name": "Nicholas S Berry",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": []
+        },
+        {
+          "name": "Mark Fitzgerald",
+          "institution": [
+            {
+              "name": "University of Oxford"
+            }
+          ],
+          "funders": []
+        },
+        {
+          "name": "Mark Lown",
+          "institution": [],
+          "funders": [
+            {
+              "name": "RAPIS-TEST"
+            },
+            {
+              "name": "NIHR efficacy and mechanism evaluation"
+            }
+          ]
+        },
+        {
+          "name": "Saye Khoo",
+          "institution": [],
+          "funders": [
+            {
+              "name": "GlaxoSmithKline"
+            },
+            {
+              "name": "ViiV"
+            },
+            {
+              "name": "Ridgeback Biotherapeutics"
+            },
+            {
+              "name": "Vir"
+            },
+            {
+              "name": "Merck"
+            },
+            {
+              "name": "UK Medical Research Council"
+            },
+            {
+              "name": "Wellcome Trust"
+            },
+            {
+              "name": "ViiV Healthcare"
+            },
+            {
+              "name": "Toyama"
+            }
+          ]
+        },
+        {
+          "name": "Joseph F Standing",
+          "institution": [],
+          "funders": [
+            {
+              "name": "GlaxoSmithKline"
+            },
+            {
+              "name": "UK Medical Research Council"
+            },
+            {
+              "name": "Wellcome Trust"
+            },
+            {
+              "name": "NIHR"
+            },
+            {
+              "name": "Drugs for Neglected Diseases Initiative"
+            }
+          ]
+        },
+        {
+          "name": "Monique Andersson",
+          "institution": [],
+          "funders": [
+            {
+              "name": "Blood and Transplant Research Unit"
+            },
+            {
+              "name": "Janssen"
+            },
+            {
+              "name": "Pfizer"
+            },
+            {
+              "name": "Prenetics"
+            },
+            {
+              "name": "Dunhill Medical Trust"
+            },
+            {
+              "name": "BMA Trust (Kathleen Harper Fund)"
+            },
+            {
+              "name": "Antibiotic Research UK"
+            },
+            {
+              "name": "OxDx"
+            },
+            {
+              "name": "E3 Initiative"
+            }
+          ]
+        },
+        {
+          "name": "Nicholas P B Thomas",
+          "institution": [],
+          "funders": [
+            {
+              "name": "MSD"
+            }
+          ]
+        },
+        {
+          "name": "Oliver van Hecke",
+          "institution": [
+            {
+              "name": "Oxford University lnnovation"
+            }
+          ],
+          "funders": [
+            {
+              "name": "MindGap"
+            },
+            {
+              "name": "CHICO trial"
+            },
+            {
+              "name": "British Society of Antimicrobial Chemotherapy"
+            }
+          ]
+        },
+        {
+          "name": "Andrew Ustianowski",
+          "institution": [],
+          "funders": [
+            {
+              "name": "MSD"
+            },
+            {
+              "name": "GlaxoSmithKline"
+            },
+            {
+              "name": "Gilead"
+            }
+          ]
+        },
+        {
+          "name": "Nick Francis",
+          "institution": [],
+          "funders": [
+            {
+              "name": "Abbott Diagnostics"
+            },
+            {
+              "name": "GlaxoSmithKline"
+            },
+            {
+              "name": "PRINCIPLE trial data safety monitoring board"
+            },
+            {
+              "name": "NIHR Health Technology Assessment General Funding Committee"
+            },
+            {
+              "name": "Synairgen"
+            }
+          ]
+        },
+        {
+          "name": "Judith Breuer",
+          "institution": [],
+          "funders": [
+            {
+              "name": "GlaxoSmithKline"
+            }
+          ]
+        }
+      ],
+      "funders": [
+        {
+          "name": "NIHR"
+        },
+        {
+          "name": "NIHR Community Healthcare Medtech and In-Vitro Diagnostics Co-operative"
+        },
+        {
+          "name": "NIHR Health Protection Research Unit on Health Care Associated Infections and Antimicrobial Resistance"
+        },
+        {
+          "name": "NIHR Applied Research Collaboration"
+        },
+        {
+          "name": "Wellcome Trust PhD programme for primary care clinicians"
+        },
+        {
+          "name": "European Clinical Research Alliance on Infectious Diseases"
+        },
+        {
+          "name": "University College London Hospitals NIHR Biomedical Research Centre"
+        },
+        {
+          "name": "Health and Care Research Wales"
+        },
+        {
+          "name": "Cardiff University"
+        }
+      ]
+    }
+  ]

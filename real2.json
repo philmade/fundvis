@@ -1,0 +1,247 @@
+[{
+    "doi": "https://doi.org/10.1016/j.jinf.2024.106130",
+    "authors": [
+      {
+        "name": "Gail Hayward",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Ly-Mee Yu",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Paul Little",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Oghenekome Gbinigie",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Milensu Shanyinde",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Victoria Harris",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Jienchi Dorward",
+        "institution": [],
+        "funders": [
+          {
+            "name": "NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Benjamin R Saville",
+        "institution": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "funders": [
+          {
+            "name": "UK NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Berry",
+        "institution": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "funders": [
+          {
+            "name": "UK NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Philip H Evans",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Nicholas PB Thomas",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Mahendra G Patel",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Duncan Richards",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Oliver Van Hecke",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Michelle A Detry",
+        "institution": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "funders": [
+          {
+            "name": "UK NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Christina Saunders",
+        "institution": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "funders": [
+          {
+            "name": "UK NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Mark Fitzgerald",
+        "institution": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "funders": [
+          {
+            "name": "UK NIHR"
+          }
+        ]
+      },
+      {
+        "name": "Jared Robinson",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Charlotte Latimer-Bell",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Julie Allen",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Emma Ogburn",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Jenna Grabey",
+        "institution": [],
+        "funders": []
+      },
+      {
+        "name": "Simon de Lusignan",
+        "institution": [
+          {
+            "name": "Oxford-RCGP Research and Surveillance Centre"
+          }
+        ],
+        "funders": [
+          {
+            "name": "AstraZeneca"
+          },
+          {
+            "name": "GSK"
+          },
+          {
+            "name": "Sanofi"
+          },
+          {
+            "name": "Seqirus"
+          },
+          {
+            "name": "Takeda"
+          }
+        ]
+      },
+      {
+        "name": "FD Richard Hobbs",
+        "institution": [],
+        "funders": [
+          {
+            "name": "UKRI"
+          }
+        ]
+      },
+      {
+        "name": "Christopher C Butler",
+        "institution": [],
+        "funders": [
+          {
+            "name": "UKRI"
+          },
+          {
+            "name": "National Institute of Health Research"
+          },
+          {
+            "name": "NIHR Community Healthcare Medtech and In-Vitro Diagnostics Co-operative (MIC)"
+          },
+          {
+            "name": "NIHR Health Protection Research Unit on Health Care Associated Infections and Antimicrobial Resistance"
+          }
+        ]
+      }
+    ],
+    "funders": [
+      {
+        "name": "NIHR"
+      },
+      {
+        "name": "NIHR Clinical Research Network"
+      },
+      {
+        "name": "NHS DigiTrials"
+      },
+      {
+        "name": "Public Health England"
+      },
+      {
+        "name": "Health and Care Research Wales"
+      },
+      {
+        "name": "NHS Research Scotland"
+      },
+      {
+        "name": "Health and Social Care Board in Northern Ireland"
+      },
+      {
+        "name": "Therapeutics Task Force"
+      },
+      {
+        "name": "NIHR Applied Research Collaboration (ARC) Oxford Thames Valley"
+      },
+      {
+        "name": "European Clinical Research Alliance on Infectious Diseases"
+      },
+      {
+        "name": "NIHR Community Healthcare Medtech and In-Vitro Diagnostics Co-operative (MIC)"
+      }
+    ]
+  }
+]
