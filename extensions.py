@@ -1,13 +1,16 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-import os
 from models import Base
-from dotenv import load_dotenv
 
+# Define the SQLite database URL
+DATABASE_URL = "sqlite:///conflicts.db"
 
-load_dotenv()
+# Create a SQLAlchemy engine
+engine = create_engine(DATABASE_URL)  # Connect to the SQLite database
 
-DATABASE_URL = os.getenv("DATABASE_URL")
-engine = create_engine(DATABASE_URL)  # Replace with your database connection URL
+# Create a session factory
 session_factory = sessionmaker(bind=engine)
+
+# Create all tables in the database
+# This will create the tables defined in models.py if they don't already exist
 Base.metadata.create_all(engine)
